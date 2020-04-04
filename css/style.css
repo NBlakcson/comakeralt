@@ -1,0 +1,47 @@
+body {
+    background-color: #FCECEA;
+    margin: 0%;
+}
+
+
+.mainDiv {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+#displayHTML {
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.navigation-bar>li>a {
+    font-size: large;
+    color: black;
+    margin-top: 14%;
+}
+
+.logo {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    padding-right: 4%;
+    padding-top: 2%;
+}
+
+table, thead, tbody, tr, td{
+    border: 1px solid black;
+    padding: 2px;
+    background-color: white;
+}
+
+thead{
+    font-weight: bold;
+}
+
+td{
+    width :150px;  
+}
+
+tr{
+    height: 30px;
+}
